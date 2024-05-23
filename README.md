@@ -1,6 +1,6 @@
 # Flood Prediction using Logistic Regression and KNN Classifier
 
-![image](https://github.com/Vanshika0301/Flood_Prediction_using_LogisticRegression_and_KNNClassifier/assets/146732449/1d8bce9b-d029-4e13-aa5f-353d50508280)
+![image](https://github.com/Vanshika0301/Flood_Prediction_using_LogisticRegression_and_KNNClassifier/assets/146732449/cb6dc2ee-4e89-47d6-95e0-903905035143)
 
 ## Overview
 This project aims to predict floods in Kerala, India, based on monthly rainfall data using binary logistic regression and the K-Nearest Neighbors (KNN) classifier. The dataset includes monthly rainfall measurements from different years, along with a binary label indicating whether a flood occurred in that year or not.
